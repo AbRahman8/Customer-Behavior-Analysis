@@ -51,8 +51,8 @@ from sqlalchemy import create_engine
 from urllib.parse import quote_plus
 
 username = 'root'
-password = 'abrahman95'
-host = 'localhost'
+password = 
+host = 
 port = 3306
 database = 'customer_behavior'
 
